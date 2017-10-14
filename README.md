@@ -1,6 +1,6 @@
 # ayu-light-pygments-rouge.css
 
-Pygments/Rouge Theme (for [Jekyll](http://jekyllrb.com/), etc) based on [Ayu Light](https://github.com/dempfi/ayu) Sublime Text Theme.
+[Pygments](http://pygments.org/)/[Rouge](http://rouge.jneen.net/) Theme (for [Jekyll](http://jekyllrb.com/), etc) based on [Ayu Light](https://github.com/dempfi/ayu) Sublime Text Theme.
 
 Based on [this pull request](https://github.com/jneen/rouge/pull/804).
 
